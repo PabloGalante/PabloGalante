@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PabloGalante
+- 👀 I’m interested in Software Engineering / Full Stack Engineering
+- 🌱 I’m currently learning Full Stack Engineer on Codecademy
+- 💞️ I’m looking to collaborate on any project
+- 📫 You can reach me through GitHub or LinkedIn
